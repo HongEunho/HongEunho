@@ -23,3 +23,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdwns315)](https://solved.ac/ghdwns315)
 </div> 
+
+### Algorithm Blog
+- [[DP & BitMask] 외판원순회](https://hongcoding.tistory.com/83)
+- [[Greedy] 단어수학](https://hongcoding.tistory.com/76?category=939702)
+- [[Stack] 오큰수](https://www.acmicpc.net/problem/17298)
+- [[BFS] 이분그래프](https://www.acmicpc.net/problem/1707)
