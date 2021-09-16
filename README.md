@@ -14,7 +14,7 @@
 ### 📖 Languages 📖
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
 
-### Also Interested in..
+### 🤔 Also Interested in.. 🤔
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-6DB33F?style=flat-square&logoColor=white"/>
   
 <br/>
